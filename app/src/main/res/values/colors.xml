@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="WhiteColor">#ffffff</color>
+    <color name="BlackColor">#000000</color>
+    <color name="skycolor">#0067d5</color>
+    <color name="uicolor">#1F4F77</color>
+    <color name="customGrayColor">#B3B3B3</color>
+    <color name="redcolor">#ff0000</color>
+    <color name="graycolor">#efeff4</color>
+    <color name="greencolor">#21c25c</color>
+    <color name="yellow">#f8ab3e</color>
+    <color name="Nevyblue">#596a8a</color>
+    <color name="Blue">#2d3b41</color>
+    <color name="GraphColor1">#1196E3</color>
+    <color name="GraphColor2">#23345D</color>
+    <color name="tabbarbgcolor">#dcdcdc</color>
+    <color name="tabbardefaultitemcolor">#808080</color>
+    <color name="white">#FFFFFF</color>
+    <color name="GraphColor3">#6FDDD8</color>
+    <color name="GraphColor4">#17A49B</color>
+    <color name="GraphColor5">#17A49B</color>
+    <color name="lead_active_color">#24a49b</color>
+    <color name="lead_followup_color">#97d1ae</color>
+    <color name="lead_dropped_color">#d56b6b</color>
+</resources>
